@@ -14,7 +14,7 @@
   
   You can run the app in 2 ways:
 
-	Within R using the following code: [add here]
+	Within R using the following code: 	shiny::runGitHub('L057278/Sankey_App_V1', ref = 'main')
 
 	Deployed from hosted website here: [add here]
   
